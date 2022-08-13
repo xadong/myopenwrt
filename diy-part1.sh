@@ -21,3 +21,6 @@ git clone https://github.com/yaof2/luci-app-ikoolproxy package/luci-app-ikoolpro
 git clone https://github.com/xadong/luci-app-smartdns package/luci-app-smartdns
 git clone https://github.com/fw876/helloworld package/helloworld
 git clone https://github.com/thinktip/luci-theme-neobird package/luci-theme-neobird
+git clone https://github.com/jerrykuku/lua-maxminddb package/lua-maxminddb
+git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
+git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
