@@ -23,4 +23,3 @@ git clone https://github.com/thinktip/luci-theme-neobird package/luci-theme-neob
 git clone https://github.com/jerrykuku/lua-maxminddb package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
-git clone https://github.com/xadong/openwrt-luci-theme package/openwrt-luci-theme
